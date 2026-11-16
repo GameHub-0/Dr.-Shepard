@@ -1,0 +1,21 @@
+[submodule "skills/mattpocock-profile"]
+	path = skills/mattpocock-profile
+	url = https://github.com/mattpocock/mattpocock
+[submodule "skills/agent-skills"]
+	path = skills/agent-skills
+	url = https://github.com/addyosmani/agent-skills
+[submodule "skills/humanizer"]
+	path = skills/humanizer
+	url = https://github.com/blader/humanizer
+[submodule "skills/scroll-craft"]
+	path = skills/scroll-craft
+	url = https://github.com/nateherkai/scroll-craft
+[submodule "skills/apify-mcp-server"]
+	path = skills/apify-mcp-server
+	url = https://github.com/apify/apify-mcp-server
+[submodule "skills/cli"]
+	path = skills/cli
+	url = https://github.com/cli/cli
+[submodule "skills/hyperframes"]
+	path = skills/hyperframes
+	url = https://github.com/heygen-com/hyperframes
