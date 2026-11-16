@@ -17,7 +17,7 @@ The local preview is http://127.0.0.1:4173. All deployable files live in `dist/`
 - `dist/index.html`: semantic content, proposed service descriptions, source links, and dialogs.
 - `dist/styles.css`: responsive layout and design tokens.
 - `dist/app.js`: navigation, accessible tabs, inquiry preparation, opt-in video, and motion.
-- `dist/assets/`: locally bundled photographs, illustration, and favicon.
+- `dist/assets/`: locally bundled photographs and favicon.
 - `.openai/hosting.json`: private Sites project identity and static output configuration.
 - `docs/`: design rationale, provenance, and verification notes.
 
