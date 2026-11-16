@@ -30,3 +30,7 @@ The development preview initially used Python's HTTP server. A Node-only preview
 - Reviewed desktop (1280px) and phone (390px) screenshots: both images load, Tyler’s face is visible, and captions remain clear. Confirmed no horizontal overflow at 1280px, 390px, or 320px.
 - Mobile menu navigates to the approach and closes. No browser warnings/errors during these checks.
 - `npm run check` passes after updating image references and source credits. Existing interactive features were unchanged; their earlier verification remains documented above.
+
+## Meet Tyler photo replacement — November 16, 2026
+
+Replaced the second portrait with the user-supplied classroom WebP. Verified the image loads at its original 2000 × 1000 resolution, Tyler remains visible in the desktop crop, and the full landscape is shown on a 390px phone layout. No horizontal overflow at desktop or phone width. `npm run check` passes.

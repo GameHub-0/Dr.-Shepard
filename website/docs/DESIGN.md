@@ -30,3 +30,5 @@ Existing repository skills are preserved as pinned submodules. The site does not
 ## Authentic photography update
 
 At the user’s request, Tyler’s official portrait now leads the opening. A real photograph from his LinkedIn post about speaking at Saint Louis University’s Upward Bound program replaces the oak. Its crop preserves Tyler and the student audience, with a source link below it. The original event photo is only JPEG-optimized; no AI changes were made.
+
+The Meet Tyler section uses the user-supplied classroom photograph in place of the repeated portrait. Desktop uses a 4:3 frame focused toward Tyler; mobile shows the full 2:1 classroom image above the caption.

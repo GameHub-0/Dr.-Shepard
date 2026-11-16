@@ -10,6 +10,8 @@ Verified November 16, 2026.
 
 ## Assets
 
+- `dist/assets/tyler-classroom.webp`: user-supplied `hero-2.webp`, 2000 × 1000 pixels. Used unchanged in the Meet Tyler section at the user’s request. Responsive CSS framing keeps Tyler and the classroom visible.
+
 - `dist/assets/portrait.jpg`: official 800-pixel portrait from Tyler's profile. Browser download originated from Benedictine's image CDN; user approved. Converted from downloaded WebP to correctly identified JPEG.
 - `dist/assets/education.jpg`: official Freedom Fellows photograph, downloaded from the provided program page; resized to 1800 pixels and converted to JPEG.
 - `dist/assets/tyler-teaching.jpg`: fourth photograph from Tyler’s LinkedIn post https://www.linkedin.com/feed/update/urn:li:activity:7083505115667562497/ about speaking with high school students in Saint Louis University’s Upward Bound program. Downloaded at the user’s request via the visible LinkedIn photo viewer, 1108 × 1478 pixels; saved as an optimized JPEG. CSS crops it responsively; no AI editing. It replaces the generated oak illustration.
