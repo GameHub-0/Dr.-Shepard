@@ -19,3 +19,24 @@
 [submodule "skills/hyperframes"]
 	path = skills/hyperframes
 	url = https://github.com/heygen-com/hyperframes
+[submodule "skills/google-workspace-cli"]
+	path = skills/google-workspace-cli
+	url = https://github.com/googleworkspace/cli
+[submodule "skills/expo-skills"]
+	path = skills/expo-skills
+	url = https://github.com/expo/skills
+[submodule "skills/supabase-agent-skills"]
+	path = skills/supabase-agent-skills
+	url = https://github.com/supabase/agent-skills
+[submodule "skills/stripe-ai"]
+	path = skills/stripe-ai
+	url = https://github.com/stripe/ai
+[submodule "skills/playwright-cli"]
+	path = skills/playwright-cli
+	url = https://github.com/microsoft/playwright-cli
+[submodule "skills/claude-plugins-official"]
+	path = skills/claude-plugins-official
+	url = https://github.com/anthropics/claude-plugins-official
+[submodule "skills/open-seo"]
+	path = skills/open-seo
+	url = https://github.com/every-app/open-seo
